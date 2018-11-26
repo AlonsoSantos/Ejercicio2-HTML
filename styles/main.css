@@ -566,7 +566,7 @@ nav{
 }
 .page5>article{
     width: 220px;
-    height: 529px;
+    height: 729px;
     padding: 1px 0 20px 20px;
     margin: 20px 16px 20px 0;
     background-color: blue;
@@ -574,48 +574,503 @@ nav{
     vertical-align: top;
 }
 .page5>article>article{
-    width: 120px;
-    height: 100px;
+    width: 110px;
+    height: 150px;
     margin: 20px 16px 0 0;
     background-color: black;
     display: inline-block;
 }
-.page5>article>article>
+.page5>article>article>section{
+    width: 70px;
+    height: 70px;
+    margin: 2.5px 20px;
+    background-color: white;
+    border-radius: 50%;
+}
 .page5>article>div{
-    width: 60px;
-    height: 100px;
-    margin: 20px 20px 0 0;
-    background-color: black;
-    display: inline-block;
-}
-.page5>article>aside{
-    width: 200px;
-    height: 100px;
-    margin: 20px 20px 0 0;
-    background-color: black;
-}
-.page5>article>nav{
-    width: 200px;
+    width: 70px;
     height: 150px;
     margin: 20px 20px 0 0;
     background-color: black;
     display: inline-block;
 }
+.page5>article>div>section{
+    width: 60px;
+    height: 140px;
+    margin: 5px;
+    background-color: white;
+    border-radius: 50%;
+}
+.page5>article>div>article{
+    width: 60px;
+    height: 60px;
+    margin: 10px 5px;
+    background-color: white;
+    border-radius: 50%;
+}
+.page5>article>aside{
+    width: 200px;
+    height: 140px;
+    margin: 20px 20px 0 0;
+    background-color: black;
+}
+.page5>article>aside>section{
+    width: 90px;
+    height: 90px;
+    margin: 25px 2.5px 25px 5px;
+    background-color: white;
+    border-radius: 50%;
+    display: inline-block;
+}
+.page5>article>nav{
+    width: 200px;
+    height: 200px;
+    margin: 20px 20px 0 0;
+    background-color: black;
+}
+.page5>article>nav>section{
+    width: 65px;
+    height: 65px;
+    margin: 10px 2.5px 0 2.5px;
+    background-color: white;
+    display: inline-block;
+    border-radius: 50%;
+}
+.page5>article>nav>div{
+    width: 55px;
+    height: 40px;
+    margin: 0 auto;
+    background-color: white;
+}
+.page5>article>nav>aside{
+    width: 150px;
+    height: 60px;
+    margin:  10px auto;
+    background-color: white;
+}
 .page5>div{
     width: 220px;
-    height: 529px;
+    height: 729px;
     padding: 1px 0 20px 20px;
     margin: 20px 16px 20px 0;
     background-color: blue;
     display: inline-block;
     vertical-align: top;
 }
+.page5>div>nav{
+    width: 200px;
+    height: fit-content;
+    margin: 20px 20px 0 0;
+    background-color: black;
+}
+.page5>div>nav>section{
+    width: 65px;
+    height: 65px;
+    margin: 10px 2.5px 0 2.5px;
+    background-color: white;
+    display: inline-block;
+    border-radius: 50%;
+}
+.page5>div>nav>div{
+    width: 40px;
+    height: 55px;
+    margin: 0 auto;
+    background-color: white;
+}
+.page5>div>nav>aside{
+    width: 150px;
+    height: 60px;
+    margin:  10px auto;
+    background-color: white;
+}
+.page5>div>article{
+    width: 90px;
+    height: 180px;
+    margin: 20px 16px 0 0;
+    background-color: black;
+    display: inline-block;
+}
+.page5>div>article>section{
+    width: 70px;
+    height: 70px;
+    margin: 10px auto;
+    background-color: white;
+    border-radius: 50%;
+}
+.page5>div>div{
+    width: 200px;
+    height: 120px;
+    margin: 20px 20px 0 0;
+    background-color: black;
+}
+.page5>div>div>section{
+    width: 90px;
+    height: 90px;
+    margin: 15px 2.5px 15px 5px;
+    background-color: white;
+    border-radius: 50%;
+    display: inline-block;
+}
+.page5>div>aside{
+    width: 95px;
+    height: 130px;
+    margin: 20px 5px 0 0;
+    background-color: black;
+    display: inline-block;
+}
+.page5>div>aside>section{
+    width: 85px;
+    height: 120px;
+    margin: 5px;
+    background-color: white;
+    border-radius: 50%;
+}
 .page5>aside{
     width: 220px;
-    height: 529px;
+    height: 729px;
     padding: 1px 0 20px 20px;
     margin: 20px 16px 20px 0;
     background-color: blue;
     display: inline-block;
     vertical-align: top;
+}
+.page5>aside>article{
+    width: 110px;
+    height: 110px;
+    margin: 20px 16px 0 0;
+    background-color: black;
+    display: inline-block;
+}
+.page5>aside>article>section{
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+    background-color: white;
+    border-radius: 50%;
+}
+.page5>aside>div{
+    width: 70px;
+    height: 110px;
+    margin: 20px 20px 0 0;
+    background-color: black;
+    display: inline-block;
+}
+.page5>aside>div>section{
+    width: 60px;
+    height: 100px;
+    margin: 5px;
+    background-color: white;
+    border-radius: 50%;
+}
+.page5>aside>nav{
+    width: 200px;
+    height: 159px;
+    padding-top: 1px;
+    margin: 20px 20px 0 0;
+    background-color: black;
+}
+.page5>aside>nav>article{
+    width: 200px;
+    height: 80px;
+    margin: 0;
+}
+.page5>aside>nav>article>section{
+    width: 70px;
+    height: 70px;
+    margin: 5px;
+    background-color: white;
+    border-radius: 50%;
+    display: inline-block;
+}
+.page5>aside>nav>aside{
+    width: 160px;
+    height: 69px;
+    padding-top: 1px;
+    margin: 20px 20px 0 20px;
+    background-color: blue;
+}
+.page5>aside>nav>aside>section{
+    width: 150px;
+    height: 60px;
+    margin: 4px 5px 5px 5px;
+    background-color: white;
+    border-radius: 50%;
+}
+.page5>aside>nav>section{
+    width: 60px;
+    height: 60px;
+    margin: 5px auto;
+    background-color: white;
+    border-radius: 50%;
+}
+.page5>aside>aside{
+    width: 100px;
+    height: 215px;
+    margin: 20px 16px 0 0;
+    background-color: black;
+    display: inline-block;
+}
+.page5>aside>aside>section{
+    width: 60px;
+    height: 60px;
+    margin: 10px auto;
+    background-color: white;
+    border-radius: 50%;
+}
+.page5>aside>footer{
+    width: 80px;
+    height: 215px;
+    margin: 20px 20px 0 0;
+    background-color: black;
+    display: inline-block;
+}
+.page5>nav{
+    width: 740px;
+    height: 200px;
+    padding-left: 20px;
+    margin: 0 20px 20px 0;
+    background-color: black;
+}
+.page5>nav>article{
+    width: 200px;
+    height: 160px;
+    margin: 20px 16px 20px 0;
+    background-color: blue;
+    display: inline-block;
+    vertical-align: top;
+}
+.page5>nav>article>div{
+    width: 70px;
+    height: 70px;
+    margin: 5px auto;
+    background-color: white;
+    border-radius: 50%;
+    display: inline-block;
+}
+.page5>nav>article>section{
+    width: 160px;
+    height: 70px;
+    margin: 0 auto;
+    background-color: white;
+    border-radius: 50%;
+}
+.page5>nav>aside{
+    width: 270px;
+    height: 160px;
+    margin: 20px 20px 20px 0;
+    background-color: blue;
+    display: inline-block;
+}
+.page5>nav>aside>article{
+    width: 230px;
+    height: 110px;
+    margin: 20px;
+    background-color: black;
+}
+.page5>nav>aside>article>section{
+    width: 70px;
+    height: 70px;
+    margin: 20px auto;
+    background-color: white;
+    border-radius: 50%;
+    display: inline-block;
+}
+/*page6*/
+.page6{
+    width: 780px;
+    height: fit-content;
+    margin: 40px;
+    background-color: darkgoldenrod;
+    padding: 20px 0 0 20px;
+}
+.page6>article{
+    width: 780px;
+    height: fit-content;
+    margin: 0 0 20px 0;
+}
+.page6>article>article{
+    width: 190px;
+    height: 150px;
+    margin: 0 16px 20px 0;
+    background-color: black;
+    display: inline-block;
+    vertical-align: top;
+    padding-left: 10px;
+}
+.page6>article>article>footer{
+    width: fit-content;
+    height: fit-content;
+    margin: auto;
+}
+.page6>article>article>footer>section{
+    width: 60px;
+    height: 60px;
+    margin: 10px;
+    background-color: white;
+    display: inline-block;
+    border-radius: 50%;
+}
+.page6>article>article>aside{
+    width: 155px;
+    height: 48px;
+    margin: 0 auto;
+}
+.page6>article>article>aside>div{
+    width: 48px;
+    height: 48px;
+    background-color: white;
+    display: inline-block;
+}
+.page6>article>div{
+    width: 300px;
+    height: 150px;
+    margin: 0 20px 20px 0;
+    background-color: black;
+    display: inline-block;
+    padding-left: 20px;
+}
+.page6>article>div>article{
+    width: 80px;
+    height: 80px;
+    margin: 35px 16px 35px 0;
+    background-color: blue;
+    display: inline-block;
+}
+.page6>article>div>article>section{
+    width: 70px;
+    height: 70px;
+    margin: 5px;
+    background-color: white;
+    border-radius: 50%;
+}
+.page6>article>nav{
+    width: 165px;
+    height: 230px;
+    margin: 0 16px 0 0;
+    background-color: black;
+    display: inline-block;
+}
+.page6>article>nav>article{
+    width: 125px;
+    height: 189px;
+    margin: 20px;
+    padding-top: 1px;
+    background-color: blue;
+}
+.page6>article>nav>article>section{
+    width: 85px;
+    height: 85px;
+    margin: 5px auto;
+    background-color: white;
+    border-radius: 50%; 
+}
+.page6>article>nav>aside{
+    width: 125px;
+    height: 59px;
+    margin: 20px;
+    padding-top: 1px;
+    background-color: blue;
+}
+.page6>article>nav>aside>section{
+    width: 50px;
+    height: 50px;
+    margin: 5px auto;
+    background-color: white;
+    border-radius: 50%;
+}
+.page6>article>nav>footer{
+    width: 125px;
+    height: 109px;
+    padding-top: 1px;
+    margin: 0 20px 20px 20px;
+    background-color: blue;
+}
+.page6>article>nav>footer>section{
+    width: 50px;
+    height: 50px;
+    margin: 3px auto;
+    background-color: white;
+    border-radius: 50%;
+}
+.page6>article>nav>section{
+    width: 70px;
+    height: 70px;
+    margin: 5px auto;
+    background-color: white;
+    border-radius: 50%;
+}
+.page6>article>nav>div{
+    width: 155px;
+    height: 70px;
+    margin: 5px;
+    background-color: white;
+    border-radius: 50%;
+}
+.page6>article>aside{
+    width: 205px;
+    height: 230px;
+    margin: 0 16px 0 0;
+    background-color: black;
+    display: inline-block;
+}
+.page6>article>aside>section{
+    width: 195px;
+    height: 220px;
+    margin: 5px;
+    background-color: white;
+    border-radius: 50%;
+}
+.page6>aside{
+    width: 740px;
+    height: fit-content;
+    padding-left: 20px;
+    margin: 0 20px 20px 0;
+    background-color: black;
+}
+.page6>aside>nav{
+    width: 165px;
+    height: 165px;
+    margin: 20px 16px 20px 0;
+    background-color: blue;
+    display: inline-block;
+}
+.page6>aside>nav>section{
+    width: 70px;
+    height: 70px;
+    margin: 10px auto;
+    background-color: white;
+    border-radius: 50%;
+}
+.page6>aside>nav>nav{
+    width: 130px;
+    height: 50px;
+    margin: 15px auto;
+    background-color: blue;
+}
+.page6>aside>nav>nav>div{
+    width: 35px;
+    height: 40px;
+    background-color: white;
+    display: inline-block;
+}
+.page6>aside>article{
+    width: 350px;
+    height: 160px;
+    margin: 0 16px 20px 0;
+    background-color: blue;
+    display: inline-block;
+}
+.page6>aside>article>nav{
+    width: 310px;
+    height: 120px;
+    margin: 20px;
+    background-color: black;
+}
+.page6>aside>article>nav>section{
+    width: 90px;
+    height: 90px;
+    margin: 15px auto;
+    background-color: white;
+    border-radius: 50%;
+    display: inline-block;
 }
